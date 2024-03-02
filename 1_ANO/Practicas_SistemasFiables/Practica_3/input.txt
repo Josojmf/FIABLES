@@ -1,0 +1,13 @@
+0us  	1 0 0 #Resetting all signals
+16us 	1 1 0 #btn con ruido
+235us 1 0 0 #
+166us 1 1 0 #btn sin ruido
+721us 1 0 1 #
+166us 1 1 1 #soltamos btn con ruido
+166us 1 0 1 #
+1092us 1 0 1 #soltamos boton definitivamente
+21us 	1 1 1 #segunda pulsacion
+492us 1 0 1 #
+166us 1 1 1 #
+511us 1 0 0 #
+

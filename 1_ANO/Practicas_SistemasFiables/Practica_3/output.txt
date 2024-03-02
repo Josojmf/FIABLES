@@ -1,0 +1,17 @@
+simulation begin
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+Simulation of tb_top.vhd
+time: 4263 us; rst_n: 1; BTNC: 0;
+Finished simulation with no errors
