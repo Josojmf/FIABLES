@@ -1,0 +1,54 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Wed May 22 17:19:26 2024
+# Process ID: 1864
+# Current directory: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/impl_1
+# Command line: vivado.exe -log fir_filter.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fir_filter.tcl -notrace
+# Log file: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/impl_1/fir_filter.vdi
+# Journal file: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/impl_1\vivado.jou
+# Running On: DESKTOP-1M4B0KO, OS: Windows, CPU Frequency: 3394 MHz, CPU Physical cores: 12, Host memory: 17111 MB
+#-----------------------------------------------------------
+source fir_filter.tcl -notrace
+create_project: Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 378.871 ; gain = 58.809
+Command: link_design -top fir_filter -part xck24-ubva530-2LV-c
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xck24-ubva530-2LV-c
+WARNING: [Device 21-9] Clock region file  is not available
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.005 . Memory (MB): peak = 1344.922 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 83 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 1 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2022.2.2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+CRITICAL WARNING: [Device 21-2168] Failed to load clock programmable delays in NTD flow
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1344.922 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 42 instances were transformed.
+  IBUF => IBUF (IBUFCTRL, INBUF): 42 instances
+
+6 Infos, 1 Warnings, 1 Critical Warnings and 0 Errors encountered.
+link_design completed successfully
+link_design: Time (s): cpu = 00:00:09 ; elapsed = 00:00:12 . Memory (MB): peak = 1344.922 ; gain = 961.477
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xck24'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xck24'
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+INFO: [Project 1-461] DRC finished with 0 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+
+Time (s): cpu = 00:00:02 ; elapsed = 00:00:01 . Memory (MB): peak = 1381.379 ; gain = 36.457
+
+Starting Cache Timing Information Task
+Ending Cache Timing Information Task | Checksum: 7eddad1e
+
+Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.013 . Memory (MB): peak = 1381.379 ; gain = 0.000
+INFO: [Common 17-83] Releasing license: Implementation
+11 Infos, 1 Warnings, 1 Critical Warnings and 1 Errors encountered.
+opt_design failed
+ERROR: [Common 17-577] Internal error: Cannot run timing on a non-timing device
+INFO: [Common 17-206] Exiting Vivado at Wed May 22 17:19:51 2024...
