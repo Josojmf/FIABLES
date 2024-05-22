@@ -1,0 +1,13 @@
+# Column description:
+# delay | rst_n | BTNC | Expected LED value # Optional console printout
+
+10 ns 0 0 0 # Resetting the value
+10 ns 1 0 0 # Now the circuit is iniatialized
+10 ms 1 1 1 # The button is set to 1 and 10 ms waited so the output should be 1
+10 ms 1 0 1	# The LED should stay on until the button is pressed again
+5 ms 1 1 1 # The button is set only for 5 ms the LED should not change
+10 ns 1 0 1 
+10 ms 1 1 0 # The button is set to 1 and 10 ms waited so the output should be 0
+10 ms 1 0 0
+10 ns 0 1 0 # The output should be on 0 when reset is pressed 
+10 ns 0 1 0 # Finished the simulation 

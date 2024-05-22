@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Feb 24 11:26:31 2024
+# Process ID: 184
+# Current directory: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.runs/synth_1
+# Command line: vivado.exe -log top_practica1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_practica1.tcl
+# Log file: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.runs/synth_1/top_practica1.vds
+# Journal file: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source top_practica1.tcl -notrace

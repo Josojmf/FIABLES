@@ -1,0 +1,42 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: The value of v_time is 10000 ps
+Time: 45 ns  Iteration: 1  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_rst is 1
+Time: 45 ns  Iteration: 1  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_btn is 0
+Time: 45 ns  Iteration: 1  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_xptc_led is 0
+Time: 45 ns  Iteration: 1  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_time is 13000 ps
+Time: 55 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_rst is 1
+Time: 55 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_btn is 1
+Time: 55 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_xptc_led is 1
+Time: 55 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_time is 235000 ps
+Time: 68 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_rst is 1
+Time: 68 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_btn is 0
+Time: 68 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_xptc_led is 0
+Time: 68 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_time is 166000 ps
+Time: 303 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_rst is 1
+Time: 303 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_btn is 1
+Time: 303 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_xptc_led is 1
+Time: 303 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_time is 20000000000 ps
+Time: 469 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_rst is 1
+Time: 469 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_btn is 0
+Time: 469 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd
+Note: The value of v_xptc_led is 0
+Time: 469 ns  Iteration: 0  Process: /tb_top/line__80  File: C:/Users/PRACTICAS/Project_1_DASF_C/Project_1_DASF_C.srcs/sim_1/imports/Desktop/tb_top.vhd

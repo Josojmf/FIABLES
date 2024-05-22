@@ -1,0 +1,9 @@
+10ns 		1 0 0 	#After reset sequence start test stimulus
+13ns 		1 1 1   #LED SE ENCIENDE	
+235ns		1 0 0   #LED NO SE ENCIENDE
+166ns		1 1 1   #LED SE ENCIENDE
+20ms		1 0 0   #FALSO BOTON OFF
+164ns 		1 1 1 	#LED SE ENCIENDE
+20ms 		1 0 0   #BOTON OFF WITH NOISE
+150ns		1 1 1 	#LED ENCENDIDO
+162ns		1 0 0 	#FIN SIMULACION

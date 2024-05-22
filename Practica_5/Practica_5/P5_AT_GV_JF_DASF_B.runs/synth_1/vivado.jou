@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Wed May 22 17:18:23 2024
+# Process ID: 21112
+# Current directory: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/synth_1
+# Command line: vivado.exe -log fir_filter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fir_filter.tcl
+# Log file: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/synth_1/fir_filter.vds
+# Journal file: C:/Users/josoj/OneDrive/Escritorio/Test_P5/Practica_5/Practica_5/P5_AT_GV_JF_DASF_B.runs/synth_1\vivado.jou
+# Running On: DESKTOP-1M4B0KO, OS: Windows, CPU Frequency: 3394 MHz, CPU Physical cores: 12, Host memory: 17111 MB
+#-----------------------------------------------------------
+source fir_filter.tcl -notrace

@@ -1,0 +1,4 @@
+Time value is:10000 psnRst value is:1Led value is:0
+Time value is:13000 psnRst value is:1Led value is:1
+Time value is:235000 psnRst value is:1Led value is:0
+Time value is:166000 psnRst value is:1Led value is:1
